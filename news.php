@@ -100,7 +100,7 @@
     </div>
     <div id="footer2">Copyright &copy; 2014 JP House. All right reserved.</div>
 </div>
-
+<!--testing -->
 </div>
 
 </body>
